@@ -1,2 +1,2 @@
 # testrepo
-a test repository
+a test repository for IBM Fullstack developer course
